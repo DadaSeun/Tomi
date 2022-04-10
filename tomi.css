@@ -1,0 +1,7 @@
+body {background-color: rgb(241, 136, 189);}
+h1 {color: red;}
+.tomi1 {background-color: bisque;}
+.tomi2 {background-color: goldenrod;}
+.circular {border-radius: 100%;}
+img:hover {width: 400px;
+            height: 450px;}
